@@ -1,0 +1,90 @@
+LUMI FASHION — WIREFRAME
+
+1. HOME — DESKTOP
+┌─────────────────────────────────────────────────────────────┐
+│ LUMI.          HOME   SHOP   ABOUT   CONTACT          ☰    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  NEW COLLECTION             ┌──────────────────────────┐    │
+│  THỜI TRANG                 │                          │    │
+│  CHO PHONG CÁCH             │       HERO IMAGE         │    │
+│  [ KHÁM PHÁ NGAY ]          │                          │    │
+│                             └──────────────────────────┘    │
+├─────────────────────────────────────────────────────────────┤
+│                    SẢN PHẨM NỔI BẬT                         │
+│        [IMG]          [IMG]          [IMG]          [IMG]    │
+│        Tên            Tên            Tên            Tên      │
+│        Giá            Giá            Giá            Giá      │
+└─────────────────────────────────────────────────────────────┘
+
+2. HOME — MOBILE
+┌───────────────────────┐
+│ LUMI.             ☰   │
+├───────────────────────┤
+│ NEW COLLECTION        │
+│ THỜI TRANG            │
+│ CHO PHONG CÁCH        │
+│ [ KHÁM PHÁ NGAY ]     │
+│                       │
+│      [ HERO IMG ]     │
+├───────────────────────┤
+│ SẢN PHẨM NỔI BẬT      │
+│       [IMG]           │
+│       Tên             │
+│       Giá             │
+│       [IMG]           │
+│       Tên             │
+│       Giá             │
+└───────────────────────┘
+
+3. SHOP — DESKTOP
+┌─────────────────────────────────────────────────────────────┐
+│ LUMI.          HOME   SHOP   ABOUT   CONTACT                │
+├─────────────────────────────────────────────────────────────┤
+│                    TẤT CẢ SẢN PHẨM                           │
+│ [IMG]          [IMG]          [IMG]          [IMG]           │
+│ Tên + Giá      Tên + Giá      Tên + Giá      Tên + Giá       │
+│ [IMG]          [IMG]          [IMG]          [IMG]           │
+│ Tên + Giá      Tên + Giá      Tên + Giá      Tên + Giá       │
+└─────────────────────────────────────────────────────────────┘
+
+4. SHOP — MOBILE
+┌───────────────────────┐
+│ LUMI.             ☰   │
+├───────────────────────┤
+│ TẤT CẢ SẢN PHẨM      │
+│       [IMG]           │
+│       Tên - Giá       │
+│       [IMG]           │
+│       Tên - Giá       │
+│       [IMG]           │
+│       Tên - Giá       │
+└───────────────────────┘
+
+5. CONTACT — DESKTOP
+┌─────────────────────────────────────────────────────────────┐
+│ LUMI.          HOME   SHOP   ABOUT   CONTACT                │
+├─────────────────────────────────────────────────────────────┤
+│ LIÊN HỆ LUMI                │ HỌ VÀ TÊN                    │
+│ Hotline                     │ EMAIL                        │
+│ Email                       │ NỘI DUNG                     │
+│ Địa chỉ                     │ [ GỬI LIÊN HỆ ]              │
+└─────────────────────────────────────────────────────────────┘
+
+6. CONTACT — MOBILE
+┌───────────────────────┐
+│ LUMI.             ☰   │
+├───────────────────────┤
+│ LIÊN HỆ LUMI          │
+│ Hotline               │
+│ Email                 │
+│ Địa chỉ               │
+│                       │
+│ HỌ VÀ TÊN             │
+│ EMAIL                 │
+│ NỘI DUNG              │
+│ [ GỬI LIÊN HỆ ]       │
+└───────────────────────┘
+
+IMPLEMENTATION NOTE
+The final website is implemented with the Bootstrap 5 framework, plus custom CSS and JavaScript.
